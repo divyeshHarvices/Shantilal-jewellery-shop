@@ -1,0 +1,9 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: *
+Allow: /
+Sitemap: https://shantilaljamnadasjewellers.com/sitemap.xml
